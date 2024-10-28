@@ -1,7 +1,3 @@
-Here’s a detailed description to showcase your video monitoring project with object detection and background subtraction on your GitHub profile:
-
----
-
 # Video Monitoring System: Object Detection and Background Subtraction
 
 ## Project Overview
